@@ -1,0 +1,3 @@
+1、链接中的json解析失败
+   http://i.eastmoney.com/api/ta/UserPostList?p=16&uid=3627094195814970
+2、解析失败的时候，用户表中更新为2（已经更新2019-12-08，更新文件GetPostContentJob.java）
